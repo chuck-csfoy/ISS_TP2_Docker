@@ -70,3 +70,18 @@
 ---
 ![Etape2Capture4](captures/Etape2Capture4.png)
 ---
+    Créer un Volume Docker pour MongoDb. Celui-ci est nécessaire pour conserver les données de la base de données.
+```bash
+    docker volume create volume_mongodb
+```
+---
+![Etape2Capture5](captures/Etape2Capture5.png)
+---
+    Vérification de la création du volume.
+```bash
+    docker volume ls
+```    
+---
+![Etape2Capture6](captures/Etape2Capture6.png)
+---
+    Créer un conteneur MongoDB
