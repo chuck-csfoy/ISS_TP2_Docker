@@ -25,5 +25,10 @@
 
 # Étape 1: Vérification de l’installation
     Après installation de docker et docker compose faire les commandes suivantes afin de valider si l'installation est conforme: 
+    ```bash
     docker --version
+    ```
+     ```bash
     docker compose version
+    ```
+    ![Etape1Capture1](captures/Etape1Capture%201.png)
