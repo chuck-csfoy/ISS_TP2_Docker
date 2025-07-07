@@ -28,9 +28,13 @@
 ```bash
     docker --version
 ```
+---
+![Etape1Capture1](captures/Etape1Capture1.png)
+---
 ```bash
     docker compose version
 ```
 ---
-![Etape1Capture1](captures/Etape1Capture1.png)
+![Etape1Capture2](captures/Etape1Capture2.png)
 ---
+
