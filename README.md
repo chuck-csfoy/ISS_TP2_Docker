@@ -24,17 +24,37 @@
 # Section 1 : Vérification et conteneurs
 
 ## Étape 1: Vérification de l’installation
-    Après installation de docker et docker compose faire les commandes suivantes afin de valider si l'installation est conforme: 
+    Après installation de docker et docker compose ouvrir un terminal bash et faire les commandes suivantes afin de valider si l'installation est conforme: 
+
+    Vérification de la version installée de Docker:
 ```bash
     docker --version
 ```
 ---
 ![Etape1Capture1](captures/Etape1Capture1.png)
 ---
+    Vérification de la version installée de Docker Compose:
 ```bash
     docker compose version
 ```
 ---
 ![Etape1Capture2](captures/Etape1Capture2.png)
 ---
+
+## Étape 2 : Création de conteneurs sur le poste local
+    Créer un réseau virtuel privé Docker appellé : mon_reseau.
+```bash
+    docker network create mon_reseau
+```
+---
+![Etape2Capture1](captures/Etape2Capture1.png)
+---
+    Vérification de la création du réseau viturel privé
+```bash
+    docker network ls
+```
+---
+![Etape2Capture2](captures/Etape2Capture2.png)
+---
+
 
