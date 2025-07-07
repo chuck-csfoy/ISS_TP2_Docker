@@ -56,5 +56,17 @@
 ---
 ![Etape2Capture2](captures/Etape2Capture2.png)
 ---
-
-
+    Créer un conteneur Appache à partir de l'image http:latest
+```bash
+    docker run -d --name apache --network mon_reseau -p 8080:80 httpd:latest
+```
+---
+![Etape2Capture3](captures/Etape2Capture3.png)
+---
+    Vérification de la création du conteneur apache
+```bash
+    docker ps
+```
+---
+![Etape2Capture4](captures/Etape2Capture4.png)
+---
