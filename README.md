@@ -84,4 +84,17 @@
 ---
 ![Etape2Capture6](captures/Etape2Capture6.png)
 ---
-    Créer un conteneur MongoDB
+    Créer un conteneur MongoDB connecté au réseau mon_reseau et qui utilise le volume volume_mongodb
+```bash
+    docker run -d --name mogodb --network mon_reseau -e MONGO_INITDB_ROOT_USERNAME=adminmongo -e MONGO_INITDB_ROOT_PASSWORD=EncoreUneAutreBD -v volume_mongodb:/data/db mongodb/mongodb-community-server
+``` 
+---
+![Etape2Capture7](captures/Etape2Capture7.png)
+---
+    Vérification de la création du conteneur mongodb.
+```bash
+    docker ps
+```
+---
+![Etape2Capture8](captures/Etape2Capture8.png)
+---
