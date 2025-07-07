@@ -98,3 +98,17 @@
 ---
 ![Etape2Capture8](captures/Etape2Capture8.png)
 ---
+    Vérification que les conteneurs sont bien reliés au réseau virtuel privé mon_reseau.
+```bash
+    docker network inspect mon_reseau
+```
+---
+![Etape2Capture9](captures/Etape2Capture9.png)
+---
+    Vérification que les journaux de Apache affiche un confirmation de connexion et via le naviagateur nous allons valider avec le port utilisé que la page d’accueil par défaut de Apache s'affiche également.
+```bash
+    docker logs apache
+```
+---
+![Etape2Capture10](captures/Etape2Capture10.png)
+---
