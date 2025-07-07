@@ -21,3 +21,9 @@
     Vérification du bon fonctionnent de chaque éléments du système de conteneurs;
     Configuration des règles de gestions et d'accès.
 
+## Section 1 : Vérification et conteneurs
+
+# Étape 1: Vérification de l’installation
+    Après installation de docker et docker compose faire les commandes suivantes afin de valider si l'installation est conforme: 
+    docker --version
+    docker compose version
