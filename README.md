@@ -113,6 +113,6 @@
 ![Etape2Capture10](captures/Etape2Capture10.png)
 ---
 
-# Section 2 : Construction personnalisée d'une image
+# Section 2 : Construction d'une image personnalisée Drupal
 
     Consultez mon_drupal/README.md à ce dépot GitHub pour plus d'information.
