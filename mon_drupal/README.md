@@ -8,4 +8,6 @@
 
 ##  Capture d’écran Drupal avec le thème Bootstrap 3.
 
-
+---
+![Section2Capture1](Section2Capture1.png)
+---
