@@ -123,10 +123,16 @@
 
   * **Auteur** : Claude Roy (Professeur)
   * **Lien** : [GitHub de Claude Roy](https://github.com/claude-roy/420-W45-SF_4372_E2025/tree/main).
-  * **Description** : Plusieurs commandes vu dans l'exercice 09 ont servis de référence à la réalisation de ce TP.
+  * **Description** : Plusieurs commandes vu dans les exercices 07, 08 et 09 ont servis de références à la réalisation de ce TP.
 
 ### 2. Docker.com
 
- * **Auteur** : Claude Roy (Professeur)
+ * **Auteur** : Docker inc.
  * **Lien** : [Docker.com](https://hub.docker.com/_/drupal).
- * **Description** : La section PostgreSQL de la page Drupal de Docker a servi de gabarit de reference.
+ * **Description** : La section PostgreSQL de la page Drupal de Docker a servi de gabarit de référence.
+
+### 3. Markdown guide
+
+ * **Auteur** :  Matt Cone 
+ * **Lien** : [markdownguid.org](https://www.markdownguide.org/basic-syntax/).
+ * **Description** : Les exemples de syntax mark down ont servis de références.
