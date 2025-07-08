@@ -116,3 +116,17 @@
 # Section 2 : Construction d'une image personnalisée Drupal
 
     Consultez mon_drupal/README.md à ce dépot GitHub pour plus d'information.
+
+# Sources :
+
+## 1. Exercices et notes de cours
+
+  * **Auteur** : Claude Roy (Professeur)
+  * **Lien** : [GitHub de Claude Roy](https://github.com/claude-roy/420-W45-SF_4372_E2025/tree/main).
+  * **Description** : Plusieurs commandes vu dans l'exercice 09 ont servis de référence à la réalisation de ce TP.
+
+## 2. Docker.com
+
+ * **Auteur** : Claude Roy (Professeur)
+ * **Lien** : [Docker.com](https://hub.docker.com/_/drupal).
+ * **Description** : La section PostgreSQL de la page Drupal de Docker a servi de gabarit de reference.
