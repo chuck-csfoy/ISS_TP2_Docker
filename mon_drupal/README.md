@@ -7,7 +7,6 @@
 # Section 2 : Construction d'une image personnalisée Drupal
 
 ##  Capture d’écran Drupal avec le thème Bootstrap 3.
-
 ---
 ![Section2Capture1](captures/Section2Capture1.png)
 ---
