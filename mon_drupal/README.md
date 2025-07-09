@@ -13,7 +13,13 @@ mkdir -p mon_drupal/drupal
 cd mon_drupal
 touch README.md
 ```
-
+## Création Dockerfile
+```bash
+touch Dockerfile
+nano Dockerfile
+```
+```bash
+```
 ##  Capture d’écran Drupal avec le thème Bootstrap.
 ---
 ![Section2Capture1](../captures/Section2Capture1.png)
